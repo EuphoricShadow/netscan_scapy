@@ -13,3 +13,15 @@ port = range(#,##) # Change port range
 - scapy
 - rich
 - python3.11 or older
+
+## Download and usage
+```bash
+git clone https://github.com/EuphoricShadow/netscan_scapy.git
+```
+**Usage**
+```bash
+sudo python3 <script.py>
+```
+**inputs**
+- pdst
+- dst: mac address
